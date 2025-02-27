@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="text_task">Оберіть дані потягу</string>
+    <string name="text_from">Від:</string>
+    <string name="hint_departure">Введіть пункт відправлення</string>
+    <string name="text_to">До:</string>
+    <string name="hint_arrival">Введіть пункт прибуття</string>
+    <string name="text_time">Час:</string>
+    <string name="btn_ok">ОК</string>
+    <string name="text_dialog_window">Текст</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="result_header">Потяг \"Березневий\"</string>
+    <string name="result_test_example">"Шлях подорожі: Kyiv -> Lviv
+Відправляється о: 18:00"</string>
+    <string-array name="hours_array">
+        <item>Оберіть час відправлення</item>
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+    </string-array>
+</resources>
