@@ -13,13 +13,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        // Begin the transaction
         val ft: FragmentTransaction = supportFragmentManager.beginTransaction()
-        // Replace the contents of the container with the new fragment
+
         ft.replace(R.id.fragment_input_layout, InputFragment())
         ft.replace(R.id.fragment_output_layout, OutputFragment())
-        // or ft.add(R.id.your_placeholder, new FooFragment());
-        // Complete the changes added above
+
         ft.commit()
     }
 
