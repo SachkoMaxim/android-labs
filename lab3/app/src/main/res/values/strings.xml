@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="text_task">Select the train data</string>
+    <string name="text_from">From:</string>
+    <string name="hint_departure">Enter the point of departure</string>
+    <string name="text_to">To:</string>
+    <string name="hint_arrival">Enter the point of arrival</string>
+    <string name="text_time">Time:</string>
+    <string name="btn_ok">ОК</string>
+    <string name="btn_open_db">Open DB</string>
+    <string name="btn_clear_db">Clear DB</string>
+    <string name="text_dialog_window">Text</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="result_header">Train \"March\"</string>
+    <string name="error_text">Error</string>
+    <string name="saved_travel_routes">Saved Travel Routes</string>
+    <string name="no_saved_routes">No saved routes found</string>
+    <string name="data_saved">Data saved successfully</string>
+    <string name="data_cleared">All saved routes have been cleared</string>
+    <string name="result_test_example">"Travel route: Kyiv -> Lviv
+Departs at: 18:00"</string>
+    <string-array name="hours_array">
+        <item>Choose a departure time</item>
+        <item>00:00</item>
+        <item>01:00</item>
+        <item>02:00</item>
+        <item>03:00</item>
+        <item>04:00</item>
+        <item>05:00</item>
+        <item>06:00</item>
+        <item>07:00</item>
+        <item>08:00</item>
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>18:00</item>
+        <item>19:00</item>
+        <item>20:00</item>
+        <item>21:00</item>
+        <item>22:00</item>
+        <item>23:00</item>
+    </string-array>
+</resources>
