@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="title">Select file and storage type, then enter the path or url</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="internal_storage">Internal storage</string>
+    <string name="external_storage">External storage</string>
+    <string name="url">URL</string>
+    <string name="path_or_url">Path or URL:</string>
+    <string name="file_path_or_url">File path or URL</string>
+    <string name="open_file">Open file</string>
+    <string name="todo">TODO</string>
+    <string name="audio_player">Audio Player</string>
+    <string name="video_player">Video Player</string>
+    <string name="playlists">Playlists</string>
+    <string name="add_playlist">Add Playlist</string>
+    <string name="add_track">Add Track</string>
+    <string name="play">Play</string>
+    <string name="delete">Delete</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="play_all">Play All</string>
+    <string name="open_playlist">Open Playlist</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="remove_from_playlist">Remove from Playlist</string>
+    <string name="no_song_in_playlist">No added Song in Playlist</string>
+    <string name="no_song_playing">No song playing</string>
+</resources>
