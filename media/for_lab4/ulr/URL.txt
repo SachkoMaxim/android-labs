@@ -1,0 +1,7 @@
+Video:
+	- https://dn720309.ca.archive.org/0/items/original-rick-roll/Original%20mp4.mp4
+
+Audio:
+	- https://ia801303.us.archive.org/6/items/the-line-the-game-awards-live/The%20line%20The%20Game%20Awards%20Live.mp3
+	- https://dn721805.ca.archive.org/0/items/Twenty-One-Pilots-BLURRY-FACE/15%20Heathens%28Bonus%20Track%29.mp3
+	- https://ia600403.us.archive.org/1/items/stressed-out_202204/Stressed%20Out.mp3
