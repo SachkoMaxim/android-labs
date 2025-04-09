@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/action_analytics"
+        android:icon="@drawable/round_analytics_24"
+        android:orderInCategory="100"
+        android:title="@string/analytics"
+        app:showAsAction="ifRoom" />
+    
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="101"
+        android:title="@string/settings"
+        app:showAsAction="never" />
+    
+    <item
+        android:id="@+id/action_about"
+        android:orderInCategory="102"
+        android:title="@string/about"
+        app:showAsAction="never" />
+</menu>

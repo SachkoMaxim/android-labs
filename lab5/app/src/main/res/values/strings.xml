@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="reset">Reset</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="analytics">Analytics</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="activity_throughout_the_day">Activity Throughout the Day</string>
+    <string name="weekly_progress">Weekly Progress</string>
+
+    <string name="total_steps">Total steps: %1$d of %2$d</string>
+    <string name="steps_count">Steps: %1$d</string>
+    <string name="distance">Distance: %1$.2f km</string>
+    <string name="calories">Calories: %1$d kcal</string>
+</resources>
