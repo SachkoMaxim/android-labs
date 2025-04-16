@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="update_rate">Update Rate</string>
+    <string name="currency_rate">Currency Rate</string>
+</resources>
